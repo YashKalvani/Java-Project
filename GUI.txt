@@ -1,0 +1,29 @@
+Name:- Yash Kalvani.
+
+The controls used in the programs are as follows:
+1. JButtons - User can find the JButtons almost everywhere in the code but mostly in the left side, where a user can buy or sell crypto and on the right side where a user can log in after clicking on Wallet.
+2. JComboBox - User can find JComboBox just below the file, which helps user to find the current prices of all the crypto market.  
+3. JMenu - User can find menu on top left side whic is names as file. once clicked on file it has a option to exit the program and a submenu
+4. JTextArea - I have used JTextArea that will display a plain text. I have used this to take a review from user about the program.
+5. JLabel-  I have used JLabel to basically create a new label with the image on it. 
+6. JRadio button : I have used the JRadio Button as to take ratings from the user how evil my program really was. 
+
+
+
+The main idea of the project was to make a cryptocurrency app in which a user can buy or sell his/her assets. 
+
+
+
+After running the program we will see a crypto market app in which on the left side a user can buy/sell cryptocurrency. It is not in order, I have done it intentionally to make the user confuse. on top there ais a menu named file.
+As soon as the user clicks on the  file Exit and sub menu options will show up. I have added a JCombobox in which if the user just hovers over there he/she will be able to see the current prices of the cryptos which btw never change
+so the user will not know the current price and will be difficult for the user to buy or sell. In the middle there is a graph of Crypto as it is there in many cryptocurrency apps. On the right side, if a user wants to check 
+his/her wallet, he or she can simply click on wallet, now to show my evilness I have made it like that, that if user doesn't put anything in Username and password field, he/she will be able to sign in, basically no security for a user.
+Then, on the bottom side I have added a review text area field and J Radio Buttons to take review from the user about the app. 
+
+
+There is no security and I have made it so difficult for the user by changing the colors of all the buttons and also everytime a user opens app the color of the backgroung will change. 
+The user sometimes have to click so many times on some popups which makes the user want tro close the app. 
+
+When the user really wants to close the app he/she can simply go to the top right corner and close the program after clicking X. Or, the can also go to the file menu and choose exit. 
+
+I would like to add my name to the list of evil programmers.
